@@ -5,9 +5,9 @@
 
 # About Me:
 
-I am an AI Software Developer with a strong focus on building AI systems for video, language, and vision. My work spans generative AI, computer vision, and speech processing, where I design and deploy end-to-end pipelines powered by LLMs, custom-trained detection models, and modern MLOps practices.
+I'm an AI Software Developer with a strong focus on building AI systems for video, language, and vision. My work spans generative AI, computer vision, and speech processing, where I design and deploy end-to-end pipelines powered by LLMs, custom-trained detection models, and modern MLOps practices.
 
-At OneStream Live, I build GPT driven content generation pipelines, Whisper-based transcription systems, a custom YOLO based speaker/tile detection system, and Stable Diffusion/Flux image generation, all deployed via Docker, Kubernetes, and GitLab CI/CD.
+At OneStream Live, I architect AiReels, a distributed multi-model video generation platform built on 5+ GPU microservices, including GPT-4o/GPT-5 driven content generation, Whisper based transcription, a custom YOLOv8 + TalkNet-ASD speaker/tile detection system, and Stable Diffusion/Flux image generation — orchestrated via a FastAPI gateway with RabbitMQ and Redis-backed async job processing, all deployed via Docker, Kubernetes, and GitLab CI/CD.
 
 I enjoy owning problems end-to-end, from model selection to production deployment, and I'm actively seeking remote AI/ML engineering roles where I can keep building impactful, real-world AI systems.
 
